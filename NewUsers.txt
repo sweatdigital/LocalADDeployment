@@ -1,4 +1,0 @@
-FirstName,LastName,Username
-John,Doe,jdoe
-Jane,Smith,jsmith
-Bob,Johnson,bjohnson
