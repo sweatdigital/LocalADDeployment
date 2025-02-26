@@ -171,4 +171,3 @@ Feel free to fork this repository, submit issues, or create pull requests with e
 
 ## License
 This project is licensed under the MIT License.
-```
