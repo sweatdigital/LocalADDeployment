@@ -45,6 +45,9 @@ This repository contains PowerShell scripts to set up a complete Active Director
      ```powershell
      .\Setup-AD-DHCP-DNS-RAS.ps1
      ```
+  ## Watch the Setup Demo
+![Setup Demo](https://github.com/sweatdigital/LocalADDeployment/raw/main/demo.gif)
+
 4. **Wait for Reboot**:
    - The server will reboot automatically after AD installation.
    - Log back in after the reboot to continue configuration.
